@@ -102,18 +102,18 @@ Charlottesville, VA 22901<br/>
 <a href="mailto:ggg9y AT virginia.edu">ggg9y AT virginia.edu</a><br/>
 
 <h3>Herald</h3>
-<b>Sally Kuntz</b> (Dolce dei Bracchi)<br/>
-162 Pilot Mtn Hollow<br/>
-Faber, VA 22938-2013<br/>
-(434) 361-2263(home)<br/>
-<a href="mailto:sallykuntz AT juno.com">sallykuntz AT juno.com</a><br/>
+<b>Karolyn McNeely</b> (Elena Modarova vnuka)<br/> <!-- Concent updated 2013 Jan 7 -->
+131 Crompton Road<br/>
+Waynesboro VA 22980<br/>
+540-471-1401 (home - Emergencies only between 12am and 8am - texting encouraged anytime)<br/>
+<a href="mailto:dorathalia AT yahoo.com">dorathalia AT yahoo.com</a><br/>
 
 <h3>Web Minister</h3>
-<b>Douglas Needham</b> (Cinnion map Liuelin map Higuel)<br/>
+<b>Douglas Needham</b> (Cinnion map Liuelin map Higuel)<br/> <!-- Concent given 2012 July 1 -->
 477 Chestnut Ave<br/>
 Waynesboro VA 22980<br/>
-(540)471-9613<br/>
-<a href="mailto:webminister AT isenfir.org">webminister AT isenfir.org</a><br/>
+(540)471-9613 (cell - Emergencies only between 12am and 8am - texting encouraged anytime)<br/>
+<a href="mailto:cinnion AT gmail.com">cinnion AT gmail.com</a><br/>
 
 <h3>Deputy Web Minister</h3>
 <b>Kendra Schmid</b> (Nicolosa d'Isenfir)<br/>
