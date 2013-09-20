@@ -1,6 +1,6 @@
 <html><head>
 	<title>Shire of Isenfir - Society for Creative Anachronism</title>
-	<link rel="stylesheet" type="text/css" media="screen" href="default.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/default.css" />
     <style type="text/css">
 <!--
 .style1 {
