@@ -1,6 +1,6 @@
 <html>
     <head>
-        <script src="https://maps.google.com/maps?file=api&amp;key=AIzaSyBzdi8Rl0HCquZIqSEOepfDrfm4VnC_EiU&amp;v=3&amp;sensor=false", type="text/javascript"></script>
+        <script src="https://maps.google.com/maps?file=api&amp;key=AIzaSyDS7QXM2ua-7bdG11I1Om-d2R3QV-I2-LA&amp;v=3&amp;sensor=false", type="text/javascript"></script>
     <script type="text/javascript">
 
 function map_init()
@@ -60,9 +60,21 @@ function map_init()
     var icons = home_marker.getIcon();
 }
     </script>
+
+        <title>Direction to Cinnion &amp; Khiba's</title>
+        <link rel="stylesheet" type="text/css" media="screen" href="/css/default.css" />
     </head>
 
     <body onload="map_init()" onunload="GUnload()">
-         <div id="map" style="width: 550px; height: 450px"></div>
+        <table width="100%" border="0">
+            <tr valign="top">
+                <td width="20%" id="Menu"><? include "../menu.php"; ?></td>
+                <td id="Content">
+                    <h1>Direction to Cinnion &amp; Khiba's</h1>
+                    
+                    <div id="map" style="width: 550px; height: 450px"></div>
+                </td>
+            </tr>
+        </table>
     </body>
 </html>
