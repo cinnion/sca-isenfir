@@ -1,6 +1,6 @@
 <html><head>
-	<title>Shire Officers and Policies</title>
-	<link rel="stylesheet" type="text/css" media="screen" href="/css/default.css" />
+    <title>Shire Officers and Policies</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/default.css" />
 </head><body>
 <table width="100%" border="0"><tr valign="top">
 <td width="20%" id="Menu"><? include "menu.php"; ?></td>
@@ -24,8 +24,8 @@
 <b>Robert Kuntz</b> (Dosso del Brachetto)<br/>
 162 Pilot Mtn Hollow<br/>
 Faber, VA 22938-2013<br/>
-(434) 361-2263 (home)<br/>
-(434) 989-4081<br/>
+(434)989-1538 (home)<br/>
+(434)989-4081<br/>
 <a href="mailto:seneschal AT isenfir.atlantia.sca.org">seneschal AT isenfir.atlantia.sca.org</a><br/>
 
 
@@ -33,24 +33,24 @@ Faber, VA 22938-2013<br/>
 <b>David Oxford</b> (Bryan Morgan)<br/>
 1850 Browns Gap Tpke<br/>
 Charlottesville, VA 22901<br/>
-(434) 823-2336 (home)<br/>
-(434) 996-9131 (cell)<br/>
+(434)823-2336 (home)<br/>
+(434)996-9131 (cell)<br/>
 <a href="mailto:seneschal-deputy AT isenfir.atlantia.sca.org">seneschal-deputy AT isenfir.atlantia.sca.org</a><br/>
 
 <h3>Chatelain/Castellan</h3>
 <b>Sally Kuntz</b> (Dolce dei Bracchi)<br/>
 162 Pilot Mtn Hollow<br/>
 Faber, VA 22938-2013<br/>
-(434) 361-2263  (home)<br/>
+(434)989-1538  (home)<br/>
 <a href="mailto:castellan AT isenfir.atlantia.sca.org">castellan AT isenfir.atlantia.sca.org</a><br/>
 
 <h3>Deputy Chatelaine</h3>
 <b>Christine Stewart</b> (Cristofana di Lorenzo)<br/>
 1501 Lanetown Road<br/>
 Crozet, VA 22932<br/>
-(434) 434-823-7733 (home)<br/>
-(540) 887-3414 (work)<br/>
-(434) 566-1143 (cell)<br/>
+(434)823-7733 (home)<br/>
+(540)887-3414 (work)<br/>
+(434)566-1143 (cell)<br/>
 <a href="mailto:castellan AT isenfir.atlantia.sca.org">castellan AT isenfir.atlantia.sca.org</a><br/>
 
 <h3>Exchequer</h3>
@@ -60,15 +60,16 @@ Crozet, VA 22932<br/>
 <b>Christine Stewart</b> (Cristofana di Lorenzo)<br/>
 1501 Lanetown Road<br/>
 Crozet, VA 22932<br/>
-(434) 434-823-7733 (home)<br/>(540) 887-3414 (work)<br/>
-(434) 566-1143 (cell)<br/>
+(434)823-7733 (home)<br/>
+(540)887-3414 (work)<br/>
+(434)566-1143 (cell)<br/>
 <a href="mailto:exchequer AT isenfir.atlantia.sca.org">exchequer AT isenfir.atlantia.sca.org</a><br/>
 
 <h3>Knight Marshal</h3>
 <b>Scott Schultz</b> (Philip ap Griffith)<br/>
 2259 Stony Point Rd<br/>
 Charlottesville, VA 22911<br/>
-434-293-3038<br/>
+(434)293-3038<br/>
 <a href="mailto:marshal-heavy AT isenfir.atlantia.sca.org">marshal-heavy AT isenfir.atlantia.sca.org</a><br/>
 
 <a href="mailto:Scott AT GriffinsPerch.com">Scott AT GriffinsPerch.com</a><br/>
@@ -83,15 +84,15 @@ Waynesboro, VA 22980<br/>
 Mallard Lodge<br/>
 1713 Essex Road<br/>
 Charlottesville, VA 22901<br/>
-434-293-5700<br/>
-434-924-3288<br/>
+(434)293-5700<br/>
+(434)924-3288<br/>
 <a href="mailto:marshal-archery AT isenfir.atlantia.sca.org">marshal-archery AT isenfir.atlantia.sca.org</a><br/>
 
 <h3>Herald</h3>
 <b>Willow Needham</b> (Joie la bedelle)<br/> <!-- Concent updated 2013 Jan 7 -->
 477 Chestnut Ave<br/>
 Waynesboro VA 22980<br/>
-540-471-1158<br/>
+(540)471-1158<br/>
 <a href="mailto:herald AT isenfir.atlantia.sca.org">herald AT isenfir.atlantia.sca.org</a><br/>
 
 
