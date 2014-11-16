@@ -1,0 +1,26 @@
+div#contents {
+    margin-left:	5px;
+    margin-right:	5px;
+	font-family: Century Gothic, Arial, Helvetica, sans-serif;
+}
+
+div#navlist {
+    margin-left:	5px;
+    margin-right:	5px;
+	color: #777777;
+	font-family: Century Gothic, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+
+}
+
+div#navitem {
+padding: 10px;
+}
+
+div#navitem  > a{
+color: #495254;
+}
+
+.bflag {
+align-content: center;
+}

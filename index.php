@@ -25,7 +25,7 @@
 <p>The Shire of Isenfir is the local group of the <a href="http://www.sca.org">Society for Creative Anachronism</a> (SCA) for the central Virginia area, including Charlottesville, Albemarle County, Nelson County, Waynesboro, Staunton, Harrisonburg, and Augusta and Rockingham Counties. The SCA is an international, non-profit, educational organization dedicated to the study and selective re-creation of the Middle Ages and Renaissance. Members attend events where they wear period clothing and assume period personas in order to learn in a more firsthand way what some aspects of medieval life were like. The SCA holds numerous regional and local events, and most groups also have a variety of local activities, some &quot;in garb,&quot; some not. 
 <!--Below is a listing of this week's activities in Isenfir. For a complete schedule, see our <a href="calendar/">calendar</a>.-->
 </p>
-
+<!-- <p align="center"><font size="+2"><a href="/events/gemutlich.php">Gemütlichplatz - April 12th - 13th, 2014</a></font></p> -->
 
 
 <!--
